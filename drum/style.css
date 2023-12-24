@@ -1,0 +1,16 @@
+#drum-machine {
+    display: flex;
+    justify-content: space-around;
+    margin: 40px auto;
+}
+
+button {
+    background-color: #333;
+    color: #fff;
+    border: none;
+    padding: 20px 40px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
